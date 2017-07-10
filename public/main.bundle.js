@@ -45,7 +45,7 @@ var ProblemDetailComponent = (function () {
     return ProblemDetailComponent;
     var _a;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/problem-detail.component.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/problem-detail.component.js.map
 
 /***/ }),
 
@@ -104,7 +104,7 @@ var ProblemListComponent = (function () {
     ], ProblemListComponent);
     return ProblemListComponent;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/problem-list.component.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/problem-list.component.js.map
 
 /***/ }),
 
@@ -152,7 +152,7 @@ var ProfileComponent = (function () {
     ], ProfileComponent);
     return ProfileComponent;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/profile.component.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/profile.component.js.map
 
 /***/ }),
 
@@ -187,7 +187,7 @@ if (__WEBPACK_IMPORTED_MODULE_2__environments_environment__["a" /* environment *
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_core__["enableProdMode"])();
 }
 __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_3__app_app_module__["a" /* AppModule */]);
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/main.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/main.js.map
 
 /***/ }),
 
@@ -221,7 +221,7 @@ var AppComponent = (function () {
     ], AppComponent);
     return AppComponent;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/app.component.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/app.component.js.map
 
 /***/ }),
 
@@ -320,7 +320,7 @@ var AppModule = (function () {
     ], AppModule);
     return AppModule;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/app.module.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/app.module.js.map
 
 /***/ }),
 
@@ -361,7 +361,7 @@ var routes = [
     }
 ];
 var routing = __WEBPACK_IMPORTED_MODULE_0__angular_router__["b" /* RouterModule */].forRoot(routes);
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/app.routes.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/app.routes.js.map
 
 /***/ }),
 
@@ -461,7 +461,7 @@ var EditorComponent = (function () {
     return EditorComponent;
     var _a;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/editor.component.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/editor.component.js.map
 
 /***/ }),
 
@@ -539,7 +539,7 @@ var NavbarComponent = (function () {
     return NavbarComponent;
     var _a;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/navbar.component.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/navbar.component.js.map
 
 /***/ }),
 
@@ -594,7 +594,7 @@ var NewProblemComponent = (function () {
     ], NewProblemComponent);
     return NewProblemComponent;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/new-problem.component.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/new-problem.component.js.map
 
 /***/ }),
 
@@ -629,7 +629,7 @@ var SearchPipe = (function () {
     ], SearchPipe);
     return SearchPipe;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/search.pipe.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/search.pipe.js.map
 
 /***/ }),
 
@@ -685,7 +685,7 @@ var AuthGuardService = (function () {
     return AuthGuardService;
     var _a;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/auth-guard.service.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/auth-guard.service.js.map
 
 /***/ }),
 
@@ -778,7 +778,7 @@ var AuthService = (function () {
     return AuthService;
     var _a;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/auth.service.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/auth.service.js.map
 
 /***/ }),
 
@@ -859,7 +859,7 @@ var CollaborationService = (function () {
     ], CollaborationService);
     return CollaborationService;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/collaboration.service.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/collaboration.service.js.map
 
 /***/ }),
 
@@ -941,7 +941,7 @@ var DataService = (function () {
     return DataService;
     var _a;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/data.service.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/data.service.js.map
 
 /***/ }),
 
@@ -980,7 +980,7 @@ var InputService = (function () {
     ], InputService);
     return InputService;
 }());
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/input.service.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/input.service.js.map
 
 /***/ }),
 
@@ -1030,7 +1030,7 @@ var COLORS = [
     "#ffffff",
     "#ffff00"
 ];
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/colors.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/colors.js.map
 
 /***/ }),
 
@@ -1046,7 +1046,7 @@ var COLORS = [
 var environment = {
     production: false
 };
-//# sourceMappingURL=/home/aaron/Projects/bittigercs503/week4/oj-client/src/environment.js.map
+//# sourceMappingURL=/home/aaron/projects/Collaborative-Online-Judge-System/oj-client/src/environment.js.map
 
 /***/ }),
 
